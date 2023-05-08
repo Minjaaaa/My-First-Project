@@ -1,4 +1,4 @@
 # My-First-Project
 Guess The Number!
-My first project
+(game)
 1. may 2023.
